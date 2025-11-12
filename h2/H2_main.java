@@ -29,7 +29,7 @@ public class H2_main {
         }
 
         a = (x && y); // E1 and E2
-        b = (x || (x != y)); // E1 or E1 not equals E2
+        b = (x || (x != y)); // E1 or E1 not equals E3
         c = (x && y) ? false : (x && !y) ? true : (!x && y) ? false : true; // 11 0, 10 1, 01 0, 00 1
 
         System.out.println("x " + x);
