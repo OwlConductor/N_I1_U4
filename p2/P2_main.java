@@ -1,6 +1,6 @@
 package p2;
 
-public class P2_maina {
+public class P2_main {
     public static void main(String[] args) {
         int a = 3;
         int b = 5;

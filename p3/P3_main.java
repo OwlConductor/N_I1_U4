@@ -1,6 +1,6 @@
 package p3;
 
-public class P3_maina {
+public class P3_main {
     public static void main(String[] args) {
         boolean x = true;
         boolean y = false;
@@ -21,6 +21,5 @@ public class P3_maina {
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
-        
     }
 }
