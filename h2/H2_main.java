@@ -32,10 +32,10 @@ public class H2_main {
         b = (x || (x != y)); // E1 or E1 not equals E3
         c = (x && y) ? false : (x && !y) ? true : (!x && y) ? false : true; // 11 0, 10 1, 01 0, 00 1
 
-        System.out.println("x " + x);
+        /* System.out.println("x " + x);
         System.out.println("y " + y);
         System.out.println("a " + a);
         System.out.println("b " + b);
-        System.out.println("c " + c);
+        System.out.println("c " + c); */
     }
 }
