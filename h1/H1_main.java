@@ -24,6 +24,6 @@ public class H1_main {
                 price = 4.0D;
             break;
         }
-        // System.out.println("\nStationen : " + zone + "\nPreis : " + price + "€");
+        System.out.println("\nStationen : " + zone + "\nPreis : " + price + "€");
     }
 }
